@@ -6,5 +6,5 @@
 | Model           | Accuracy    |
 | :---:           | :---:       |
 | MobileNet V2    | 82.20 %     |
-| Inception V3    |  %          |
+| Inception V3    | 73.60 %     |
 | ResNet 50       |  %          |

@@ -7,4 +7,4 @@
 | :---:           | :---:       |
 | MobileNet V2    | 82.20 %     |
 | Inception V3    | 73.60 %     |
-| ResNet 50       |  %          |
+| ResNet 50       | 85.20 %     |
